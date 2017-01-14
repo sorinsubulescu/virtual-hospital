@@ -1,0 +1,1 @@
+Player START . Then goes to the patient and asks QUESTION1 QUESTION2 QUESTION3 and then he does ANALYSIS2 

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Hospital.CSharp.Plugins", "Virtual Hospital.CSharp.Plugins.csproj", "{0A917B23-3910-EC6A-21F9-93A725D1A1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Hospital.CSharp", "Virtual Hospital.CSharp.csproj", "{3BF0DC04-E344-A799-C972-3F772175BEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Hospital.CSharp.Editor", "Virtual Hospital.CSharp.Editor.csproj", "{445BC29C-0A9F-E3BE-04F3-3A3B18A22628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A917B23-3910-EC6A-21F9-93A725D1A1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A917B23-3910-EC6A-21F9-93A725D1A1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A917B23-3910-EC6A-21F9-93A725D1A1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A917B23-3910-EC6A-21F9-93A725D1A1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF0DC04-E344-A799-C972-3F772175BEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF0DC04-E344-A799-C972-3F772175BEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF0DC04-E344-A799-C972-3F772175BEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF0DC04-E344-A799-C972-3F772175BEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{445BC29C-0A9F-E3BE-04F3-3A3B18A22628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445BC29C-0A9F-E3BE-04F3-3A3B18A22628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445BC29C-0A9F-E3BE-04F3-3A3B18A22628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445BC29C-0A9F-E3BE-04F3-3A3B18A22628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
